@@ -26,6 +26,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 
 ## 📂 Project Structure
 Titanic-EDA-Analysis/
+
 │── Titanic-Dataset.csv  
 │── eda_analysis.ipynb  
 │── README.md  
